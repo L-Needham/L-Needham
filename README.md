@@ -7,7 +7,7 @@ University of the Sunshine Coast, 2025.
 
 ## What I'm working on
 
-- Fixing a Mouse Jump crash in Microsoft PowerToys (C#, WinUI 3), including root-cause analysis and an upstream pull request ([issue #50424](https://github.com/microsoft/PowerToys/issues/50424))
+- Fixing a Mouse Jump crash in Microsoft PowerToys (C#, WinUI 3), including root-cause analysis and preparing an upstream pull request ([issue #50424](https://github.com/microsoft/PowerToys/issues/50424))
 - Desktop tooling with Tauri, Rust and SQLite FTS5
 - Android automation with Termux, Tasker and local HTTP services
 - Network hardening: OpenWrt on Netgear WAX214 APs, Cloudflare Zero Trust DNS
